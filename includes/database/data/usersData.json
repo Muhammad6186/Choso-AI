@@ -1,0 +1,18 @@
+{
+    "100027867581039": {
+        "userID": "100027867581039",
+        "name": "Marjhun Rey Lim",
+        "vanity": "Marjhun.Rey.Lim18",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1707053854155
+        },
+        "data": {
+            "timestamp": 1707053854155
+        },
+        "lastUpdate": 1707053854155
+    }
+}
